@@ -12,3 +12,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_threshold: 2%                               # Hides all languages less than 2%
+          plugin_languages_limit: 8                                    # Display up to 8 languages
