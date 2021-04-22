@@ -3,6 +3,12 @@
 I am Thomas, a CS student mainly interested in software security,
 low-level programming, and programing language theory !
 
+As a low-level enthusiast, I tend to like minimalistic tools, and I
+happen to have a [Gopher hole](https://en.wikipedia.org/wiki/Gopher_(protocol)) open at `vigoux.giize.com`, so grab your
+favorite gopher browser, and come to the dark side !
+I happen to maintain some things on a self hosted git server too,
+which is over at `vigoux.giize.com`.
+
 # Wanna chat ?
 
 I am almost always connected on [nvim-treesitter's
