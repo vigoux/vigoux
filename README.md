@@ -14,8 +14,7 @@ which is over at `vigoux.giize.com`.
 I am almost always connected on [nvim-treesitter's
 Zulip](nvim-treesitter.zulip-chat.com).
 
-I am also a big fan of IRC, so I am both on `#vigoux-lair` on
-Freenode, and Neovim's Gitter (through IRC too).
+I am also hanging around in the `#neovim:matrix.org` channel.
 
 # Wanna help me a bit ?
 
