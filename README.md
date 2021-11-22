@@ -11,6 +11,10 @@ which is over at `vigoux.giize.com`.
 
 # Wanna chat ?
 
+You can send me an email if you want to ask anything private, or in a secure manner.
+
+Otherwise if you want to chat, I usually hang around my personnal channel `##vigoux_lair` on `libera.chat`
+
 I am almost always connected on [nvim-treesitter's
 Zulip](nvim-treesitter.zulip-chat.com).
 
@@ -23,7 +27,7 @@ First, thank you very much !
 You can click on the little sponsor icon on the left, that'll help me
 a lot !
 
-Also, if you are a Brave user, you can sand me some `BAT`s (I am a
+Also, if you are a Brave user, you can send me some `BAT`s (I am a
 verified creator) !
 
 # My metrics
