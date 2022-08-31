@@ -9,10 +9,7 @@ favorite gopher browser, and come to the dark side !
 I happen to maintain some things on a self hosted git server too,
 which is over at `vigoux.giize.com`.
 
-_You can get my `nvim` config by running:_
-```bash
-git clone git://vigoux.giize.com/nvim-config.git
-```
+_My neovim config is available [here](https://git.vigoux.giize.com/nvim-config/)_
 
 # Wanna chat ?
 
